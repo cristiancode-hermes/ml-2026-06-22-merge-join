@@ -1,0 +1,31 @@
+producto_id,nombre,categoria,precio,stock
+201,Laptop UltraBook,Accesorios,2444.97,190
+202,Mouse Inalámbrico,Audio,1394.45,144
+203,Teclado Mecánico,Oficina,813.49,160
+204,"Monitor 27""",Oficina,118.07,156
+205,Audífonos Bluetooth,Accesorios,2312.36,140
+206,Webcam HD,Redes,2298.6,45
+207,USB-C Hub,Audio,639.95,34
+208,Disco SSD 1TB,Accesorios,1741.57,133
+209,Memoria RAM 16GB,Oficina,197.83,81
+210,Cargador Rápido,Accesorios,423.88,114
+211,Silla Ergonómica,Accesorios,549.85,196
+212,Escritorio Eléctrico,Oficina,743.29,46
+213,Lámpara LED,Accesorios,2489.62,152
+214,Micrófono USB,Accesorios,1745.34,193
+215,Parlante Portátil,Accesorios,966.66,9
+216,"Tablet 10""",Accesorios,1845.38,55
+217,Funda Laptop,Accesorios,2288.98,29
+218,Hub HDMI,Audio,2397.17,108
+219,Cable USB-C,Oficina,154.08,4
+220,Adaptador Ethernet,Oficina,992.36,118
+221,Mousepad XL,Oficina,275.82,32
+222,Soporte Monitor,Oficina,845.79,117
+223,Cámara Seguridad,Audio,432.5,64
+224,Router WiFi 6,Accesorios,1620.65,145
+225,Impresora Láser,Accesorios,976.79,176
+226,Escáner Documentos,Accesorios,581.19,10
+227,UPS 1500VA,Computadoras,672.19,84
+228,Hub Thunderbolt,Audio,907.26,25
+229,Teclado Numérico,Accesorios,657.28,62
+230,Lapicero Digital,Oficina,1138.57,85

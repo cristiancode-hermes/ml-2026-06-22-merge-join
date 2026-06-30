@@ -1,0 +1,156 @@
+pedido_id,cliente_id,fecha_pedido,total,estado,producto_id_x,nombre_x,categoria,precio,stock,nombre_y,ciudad,fecha_registro,segmento,resena_id,puntuacion,comentario,producto_id_y
+1001,32,2025-02-01,427.7,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_32,Bogotá,2025-02-01,Standard,305.0,2.0,Llegó rápido,229.0
+1001,32,2025-02-01,427.7,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_32,Bogotá,2025-02-01,Standard,317.0,5.0,Podría mejorar,229.0
+1002,39,2025-02-03,468.78,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_39,Cali,2025-02-08,Standard,,,,
+1003,32,2025-02-05,395.89,Pendiente,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_32,Bogotá,2025-02-01,Standard,311.0,5.0,Perfecto para lo que necesito,201.0
+1003,32,2025-02-05,395.89,Pendiente,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_32,Bogotá,2025-02-01,Standard,329.0,5.0,Excelente producto,201.0
+1004,4,2025-02-07,339.46,Entregado,223,Cámara Seguridad,Audio,432.5,64,Cliente_4,Medellín,2025-01-04,Standard,320.0,5.0,Excelente producto,223.0
+1004,4,2025-02-07,339.46,Entregado,223,Cámara Seguridad,Audio,432.5,64,Cliente_4,Medellín,2025-01-04,Standard,355.0,5.0,No funcionó,223.0
+1004,4,2025-02-07,339.46,Entregado,223,Cámara Seguridad,Audio,432.5,64,Cliente_4,Medellín,2025-01-04,Standard,370.0,3.0,Perfecto para lo que necesito,223.0
+1004,4,2025-02-07,339.46,Entregado,223,Cámara Seguridad,Audio,432.5,64,Cliente_4,Medellín,2025-01-04,Standard,371.0,3.0,Podría mejorar,223.0
+1005,30,2025-02-09,296.63,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_30,Bogotá,2025-01-30,Premium,310.0,4.0,Llegó rápido,215.0
+1005,30,2025-02-09,296.63,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_30,Bogotá,2025-01-30,Premium,334.0,4.0,Decepcionante,215.0
+1005,30,2025-02-09,296.63,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_30,Bogotá,2025-01-30,Premium,353.0,4.0,Decepcionante,215.0
+1006,37,2025-02-11,195.56,Envío,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_37,Bogotá,2025-02-06,Standard,308.0,3.0,No funcionó,201.0
+1006,37,2025-02-11,195.56,Envío,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_37,Bogotá,2025-02-06,Standard,362.0,4.0,Llegó rápido,201.0
+1007,23,2025-02-13,470.96,Entregado,225,Impresora Láser,Accesorios,976.79,176,Cliente_23,Bogotá,2025-01-23,Premium,,,,
+1008,39,2025-02-15,487.23,Envío,217,Funda Laptop,Accesorios,2288.98,29,Cliente_39,Cali,2025-02-08,Standard,369.0,3.0,Normal,217.0
+1009,15,2025-02-17,152.7,Entregado,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_15,Bogotá,2025-01-15,Gold,,,,
+1010,29,2025-02-19,163.1,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_29,Medellín,2025-01-29,Gold,356.0,4.0,Muy bueno,215.0
+1011,36,2025-02-21,250.52,Entregado,223,Cámara Seguridad,Audio,432.5,64,Cliente_36,Barranquilla,2025-02-05,Gold,,,,
+1012,13,2025-02-23,232.49,Entregado,202,Mouse Inalámbrico,Audio,1394.45,144,Cliente_13,Barranquilla,2025-01-13,Standard,331.0,3.0,Muy bueno,202.0
+1013,32,2025-02-25,497.31,Entregado,214,Micrófono USB,Accesorios,1745.34,193,Cliente_32,Bogotá,2025-02-01,Standard,,,,
+1014,7,2025-02-27,100.32,Entregado,221,Mousepad XL,Oficina,275.82,32,Cliente_7,Bogotá,2025-01-07,Premium,339.0,3.0,Muy bueno,221.0
+1015,22,2025-03-01,23.77,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_22,Bogotá,2025-01-22,Gold,,,,
+1016,28,2025-03-03,254.54,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_28,Medellín,2025-01-28,Premium,368.0,3.0,Decepcionante,208.0
+1017,2,2025-03-05,101.73,Cancelado,219,Cable USB-C,Oficina,154.08,4,Cliente_2,Cartagena,2025-01-02,Standard,316.0,5.0,Lo recomiendo,219.0
+1017,2,2025-03-05,101.73,Cancelado,219,Cable USB-C,Oficina,154.08,4,Cliente_2,Cartagena,2025-01-02,Standard,336.0,2.0,Perfecto para lo que necesito,219.0
+1017,2,2025-03-05,101.73,Cancelado,219,Cable USB-C,Oficina,154.08,4,Cliente_2,Cartagena,2025-01-02,Standard,358.0,3.0,Normal,219.0
+1017,2,2025-03-05,101.73,Cancelado,219,Cable USB-C,Oficina,154.08,4,Cliente_2,Cartagena,2025-01-02,Standard,359.0,4.0,Excelente producto,219.0
+1018,6,2025-03-07,192.74,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_6,Bogotá,2025-01-06,Standard,,,,
+1019,28,2025-03-09,375.92,Entregado,219,Cable USB-C,Oficina,154.08,4,Cliente_28,Medellín,2025-01-28,Premium,,,,
+1020,28,2025-03-11,364.66,Envío,206,Webcam HD,Redes,2298.6,45,Cliente_28,Medellín,2025-01-28,Premium,,,,
+1021,20,2025-03-13,164.41,Envío,206,Webcam HD,Redes,2298.6,45,Cliente_20,Bogotá,2025-01-20,Standard,306.0,2.0,Lo recomiendo,206.0
+1022,30,2025-03-15,278.13,Entregado,203,Teclado Mecánico,Oficina,813.49,160,Cliente_30,Bogotá,2025-01-30,Premium,,,,
+1023,11,2025-03-17,261.77,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_11,Bogotá,2025-01-11,Gold,313.0,5.0,Decepcionante,207.0
+1023,11,2025-03-17,261.77,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_11,Bogotá,2025-01-11,Gold,338.0,4.0,Llegó rápido,207.0
+1023,11,2025-03-17,261.77,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_11,Bogotá,2025-01-11,Gold,366.0,2.0,Decepcionante,207.0
+1024,28,2025-03-19,323.62,Entregado,219,Cable USB-C,Oficina,154.08,4,Cliente_28,Medellín,2025-01-28,Premium,,,,
+1025,25,2025-03-21,136.47,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_25,Medellín,2025-01-25,Standard,373.0,5.0,Perfecto para lo que necesito,208.0
+1026,39,2025-03-23,301.09,Pendiente,210,Cargador Rápido,Accesorios,423.88,114,Cliente_39,Cali,2025-02-08,Standard,326.0,4.0,Decepcionante,210.0
+1027,33,2025-03-25,489.76,Pendiente,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_33,Bogotá,2025-02-02,Gold,302.0,3.0,Lo recomiendo,220.0
+1027,33,2025-03-25,489.76,Pendiente,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_33,Bogotá,2025-02-02,Gold,376.0,4.0,Llegó rápido,220.0
+1028,1,2025-03-27,251.07,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_1,Medellín,2025-01-01,Standard,,,,
+1029,27,2025-03-29,454.46,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_27,Bogotá,2025-01-27,Standard,354.0,4.0,Llegó rápido,215.0
+1030,13,2025-03-31,225.68,Pendiente,229,Teclado Numérico,Accesorios,657.28,62,Cliente_13,Barranquilla,2025-01-13,Standard,346.0,2.0,Llegó rápido,229.0
+1030,13,2025-03-31,225.68,Pendiente,229,Teclado Numérico,Accesorios,657.28,62,Cliente_13,Barranquilla,2025-01-13,Standard,351.0,4.0,Decepcionante,229.0
+1031,3,2025-04-02,184.79,Entregado,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_3,Cali,2025-01-03,Standard,,,,
+1032,39,2025-04-04,327.88,Entregado,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_39,Cali,2025-02-08,Standard,323.0,3.0,Excelente producto,220.0
+1032,39,2025-04-04,327.88,Entregado,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_39,Cali,2025-02-08,Standard,377.0,5.0,Llegó rápido,220.0
+1033,6,2025-04-06,339.43,Envío,230,Lapicero Digital,Oficina,1138.57,85,Cliente_6,Bogotá,2025-01-06,Standard,304.0,3.0,Excelente producto,230.0
+1034,8,2025-04-08,434.12,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_8,Barranquilla,2025-01-08,Gold,324.0,4.0,Perfecto para lo que necesito,207.0
+1034,8,2025-04-08,434.12,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_8,Barranquilla,2025-01-08,Gold,327.0,4.0,Podría mejorar,207.0
+1034,8,2025-04-08,434.12,Entregado,207,USB-C Hub,Audio,639.95,34,Cliente_8,Barranquilla,2025-01-08,Gold,361.0,4.0,Lo recomiendo,207.0
+1035,27,2025-04-10,126.64,Pendiente,227,UPS 1500VA,Computadoras,672.19,84,Cliente_27,Bogotá,2025-01-27,Standard,,,,
+1036,9,2025-04-12,257.11,Pendiente,204,"Monitor 27""",Oficina,118.07,156,Cliente_9,Cali,2025-01-09,Premium,,,,
+1037,37,2025-04-14,292.42,Pendiente,229,Teclado Numérico,Accesorios,657.28,62,Cliente_37,Bogotá,2025-02-06,Standard,315.0,2.0,Perfecto para lo que necesito,229.0
+1038,33,2025-04-16,387.75,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_33,Bogotá,2025-02-02,Gold,342.0,1.0,Decepcionante,206.0
+1038,33,2025-04-16,387.75,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_33,Bogotá,2025-02-02,Gold,344.0,3.0,Excelente producto,206.0
+1038,33,2025-04-16,387.75,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_33,Bogotá,2025-02-02,Gold,350.0,5.0,Excelente producto,206.0
+1039,24,2025-04-18,36.15,Envío,225,Impresora Láser,Accesorios,976.79,176,Cliente_24,Medellín,2025-01-24,Standard,325.0,4.0,Lo recomiendo,225.0
+1040,15,2025-04-20,497.36,Envío,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_15,Bogotá,2025-01-15,Gold,,,,
+1041,32,2025-04-22,242.92,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_32,Bogotá,2025-02-01,Standard,,,,
+1042,32,2025-04-24,150.59,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_32,Bogotá,2025-02-01,Standard,,,,
+1043,24,2025-04-26,443.49,Envío,227,UPS 1500VA,Computadoras,672.19,84,Cliente_24,Medellín,2025-01-24,Standard,365.0,3.0,Normal,227.0
+1044,12,2025-04-28,377.64,Envío,223,Cámara Seguridad,Audio,432.5,64,Cliente_12,Cartagena,2025-01-12,Gold,,,,
+1045,39,2025-04-30,477.24,Entregado,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_39,Cali,2025-02-08,Standard,319.0,3.0,Podría mejorar,201.0
+1046,2,2025-05-02,175.41,Envío,230,Lapicero Digital,Oficina,1138.57,85,Cliente_2,Cartagena,2025-01-02,Standard,,,,
+1047,3,2025-05-04,283.09,Envío,204,"Monitor 27""",Oficina,118.07,156,Cliente_3,Cali,2025-01-03,Standard,337.0,4.0,Muy bueno,204.0
+1048,37,2025-05-06,292.56,Entregado,222,Soporte Monitor,Oficina,845.79,117,Cliente_37,Bogotá,2025-02-06,Standard,,,,
+1049,17,2025-05-08,490.46,Entregado,202,Mouse Inalámbrico,Audio,1394.45,144,Cliente_17,Bogotá,2025-01-17,Premium,303.0,3.0,Lo recomiendo,202.0
+1050,2,2025-05-10,51.54,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_2,Cartagena,2025-01-02,Standard,330.0,1.0,Lo recomiendo,210.0
+1050,2,2025-05-10,51.54,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_2,Cartagena,2025-01-02,Standard,345.0,3.0,No funcionó,210.0
+1050,2,2025-05-10,51.54,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_2,Cartagena,2025-01-02,Standard,378.0,2.0,Buena relación calidad-precio,210.0
+1051,2,2025-05-12,163.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_2,Cartagena,2025-01-02,Standard,318.0,2.0,Normal,205.0
+1051,2,2025-05-12,163.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_2,Cartagena,2025-01-02,Standard,341.0,4.0,Excelente producto,205.0
+1051,2,2025-05-12,163.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_2,Cartagena,2025-01-02,Standard,347.0,5.0,Lo recomiendo,205.0
+1051,2,2025-05-12,163.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_2,Cartagena,2025-01-02,Standard,352.0,2.0,Muy bueno,205.0
+1051,2,2025-05-12,163.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_2,Cartagena,2025-01-02,Standard,380.0,5.0,Normal,205.0
+1052,28,2025-05-14,107.59,Entregado,227,UPS 1500VA,Computadoras,672.19,84,Cliente_28,Medellín,2025-01-28,Premium,349.0,5.0,Normal,227.0
+1053,23,2025-05-16,145.21,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_23,Bogotá,2025-01-23,Premium,312.0,1.0,Normal,210.0
+1053,23,2025-05-16,145.21,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_23,Bogotá,2025-01-23,Premium,314.0,4.0,Lo recomiendo,210.0
+1053,23,2025-05-16,145.21,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_23,Bogotá,2025-01-23,Premium,363.0,5.0,No funcionó,210.0
+1054,37,2025-05-18,250.36,Entregado,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_37,Bogotá,2025-02-06,Standard,328.0,4.0,Normal,201.0
+1054,37,2025-05-18,250.36,Entregado,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_37,Bogotá,2025-02-06,Standard,333.0,5.0,Perfecto para lo que necesito,201.0
+1055,32,2025-05-20,195.75,Envío,222,Soporte Monitor,Oficina,845.79,117,Cliente_32,Bogotá,2025-02-01,Standard,307.0,4.0,Normal,222.0
+1055,32,2025-05-20,195.75,Envío,222,Soporte Monitor,Oficina,845.79,117,Cliente_32,Bogotá,2025-02-01,Standard,367.0,3.0,Decepcionante,222.0
+1056,33,2025-05-22,206.43,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_33,Bogotá,2025-02-02,Gold,357.0,2.0,Normal,206.0
+1056,33,2025-05-22,206.43,Entregado,206,Webcam HD,Redes,2298.6,45,Cliente_33,Bogotá,2025-02-02,Gold,372.0,3.0,No funcionó,206.0
+1057,1,2025-05-24,424.44,Envío,213,Lámpara LED,Accesorios,2489.62,152,Cliente_1,Medellín,2025-01-01,Standard,335.0,4.0,Buena relación calidad-precio,213.0
+1058,19,2025-05-26,466.06,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_19,Medellín,2025-01-19,Premium,,,,
+1059,2,2025-05-28,49.15,Entregado,204,"Monitor 27""",Oficina,118.07,156,Cliente_2,Cartagena,2025-01-02,Standard,301.0,1.0,Podría mejorar,204.0
+1060,26,2025-05-30,116.33,Entregado,213,Lámpara LED,Accesorios,2489.62,152,Cliente_26,Cali,2025-01-26,Standard,,,,
+1061,32,2025-06-01,340.5,Envío,224,Router WiFi 6,Accesorios,1620.65,145,Cliente_32,Bogotá,2025-02-01,Standard,379.0,4.0,Llegó rápido,224.0
+1062,6,2025-06-03,188.94,Entregado,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_6,Bogotá,2025-01-06,Standard,321.0,5.0,Podría mejorar,220.0
+1063,32,2025-06-05,138.27,Pendiente,224,Router WiFi 6,Accesorios,1620.65,145,Cliente_32,Bogotá,2025-02-01,Standard,348.0,4.0,Buena relación calidad-precio,224.0
+1064,4,2025-06-07,158.22,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_4,Medellín,2025-01-04,Standard,343.0,3.0,No funcionó,215.0
+1065,11,2025-06-09,171.44,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_11,Bogotá,2025-01-11,Gold,322.0,3.0,Excelente producto,229.0
+1065,11,2025-06-09,171.44,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_11,Bogotá,2025-01-11,Gold,332.0,5.0,Llegó rápido,229.0
+1066,17,2025-06-11,426.6,Cancelado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_17,Bogotá,2025-01-17,Premium,340.0,3.0,Podría mejorar,208.0
+1066,17,2025-06-11,426.6,Cancelado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_17,Bogotá,2025-01-17,Premium,364.0,4.0,Decepcionante,208.0
+1067,38,2025-06-13,81.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_38,Bogotá,2025-02-07,Standard,374.0,2.0,No funcionó,205.0
+1067,38,2025-06-13,81.26,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_38,Bogotá,2025-02-07,Standard,375.0,4.0,Muy bueno,205.0
+1068,24,2025-06-15,358.82,Entregado,229,Teclado Numérico,Accesorios,657.28,62,Cliente_24,Medellín,2025-01-24,Standard,,,,
+1069,5,2025-06-17,283.12,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_5,Bogotá,2025-01-05,Standard,309.0,4.0,Muy bueno,215.0
+1069,5,2025-06-17,283.12,Entregado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_5,Bogotá,2025-01-05,Standard,360.0,4.0,Llegó rápido,215.0
+1070,34,2025-06-19,158.81,Entregado,204,"Monitor 27""",Oficina,118.07,156,Cliente_34,Cartagena,2025-02-03,Premium,,,,
+1071,6,2025-06-21,218.59,Envío,212,Escritorio Eléctrico,Oficina,743.29,46,Cliente_6,Bogotá,2025-01-06,Standard,,,,
+1072,22,2025-06-23,139.26,Entregado,213,Lámpara LED,Accesorios,2489.62,152,Cliente_22,Bogotá,2025-01-22,Gold,,,,
+1073,11,2025-06-25,311.58,Entregado,202,Mouse Inalámbrico,Audio,1394.45,144,Cliente_11,Bogotá,2025-01-11,Gold,,,,
+1074,16,2025-06-27,54.57,Entregado,227,UPS 1500VA,Computadoras,672.19,84,Cliente_16,Bogotá,2025-01-16,Standard,,,,
+1075,33,2025-06-29,17.51,Pendiente,219,Cable USB-C,Oficina,154.08,4,Cliente_33,Bogotá,2025-02-02,Gold,,,,
+1076,9,2025-07-01,319.53,Entregado,219,Cable USB-C,Oficina,154.08,4,Cliente_9,Cali,2025-01-09,Premium,,,,
+1077,6,2025-07-03,109.22,Entregado,204,"Monitor 27""",Oficina,118.07,156,Cliente_6,Bogotá,2025-01-06,Standard,,,,
+1078,16,2025-07-05,49.41,Envío,204,"Monitor 27""",Oficina,118.07,156,Cliente_16,Bogotá,2025-01-16,Standard,,,,
+1079,29,2025-07-07,207.44,Envío,226,Escáner Documentos,Accesorios,581.19,10,Cliente_29,Medellín,2025-01-29,Gold,,,,
+1080,3,2025-07-09,39.62,Entregado,211,Silla Ergonómica,Accesorios,549.85,196,Cliente_3,Cali,2025-01-03,Standard,,,,
+1081,20,2025-07-11,445.01,Entregado,227,UPS 1500VA,Computadoras,672.19,84,Cliente_20,Bogotá,2025-01-20,Standard,,,,
+1082,36,2025-07-13,28.39,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_36,Barranquilla,2025-02-05,Gold,,,,
+1083,19,2025-07-15,295.75,Entregado,220,Adaptador Ethernet,Oficina,992.36,118,Cliente_19,Medellín,2025-01-19,Premium,,,,
+1084,26,2025-07-17,227.66,Entregado,211,Silla Ergonómica,Accesorios,549.85,196,Cliente_26,Cali,2025-01-26,Standard,,,,
+1085,3,2025-07-19,340.93,Entregado,230,Lapicero Digital,Oficina,1138.57,85,Cliente_3,Cali,2025-01-03,Standard,,,,
+1086,19,2025-07-21,174.15,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_19,Medellín,2025-01-19,Premium,,,,
+1087,20,2025-07-23,90.2,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_20,Bogotá,2025-01-20,Standard,,,,
+1088,32,2025-07-25,491.19,Cancelado,206,Webcam HD,Redes,2298.6,45,Cliente_32,Bogotá,2025-02-01,Standard,,,,
+1089,7,2025-07-27,421.88,Envío,206,Webcam HD,Redes,2298.6,45,Cliente_7,Bogotá,2025-01-07,Premium,,,,
+1090,33,2025-07-29,432.3,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_33,Bogotá,2025-02-02,Gold,,,,
+1091,40,2025-07-31,136.37,Cancelado,223,Cámara Seguridad,Audio,432.5,64,Cliente_40,Medellín,2025-02-09,Standard,,,,
+1092,39,2025-08-02,33.83,Envío,215,Parlante Portátil,Accesorios,966.66,9,Cliente_39,Cali,2025-02-08,Standard,,,,
+1093,18,2025-08-04,162.08,Entregado,226,Escáner Documentos,Accesorios,581.19,10,Cliente_18,Medellín,2025-01-18,Standard,,,,
+1094,40,2025-08-06,275.48,Entregado,214,Micrófono USB,Accesorios,1745.34,193,Cliente_40,Medellín,2025-02-09,Standard,,,,
+1095,1,2025-08-08,173.43,Entregado,211,Silla Ergonómica,Accesorios,549.85,196,Cliente_1,Medellín,2025-01-01,Standard,,,,
+1096,11,2025-08-10,416.52,Entregado,212,Escritorio Eléctrico,Oficina,743.29,46,Cliente_11,Bogotá,2025-01-11,Gold,,,,
+1097,28,2025-08-12,146.7,Entregado,226,Escáner Documentos,Accesorios,581.19,10,Cliente_28,Medellín,2025-01-28,Premium,,,,
+1098,25,2025-08-14,483.15,Entregado,213,Lámpara LED,Accesorios,2489.62,152,Cliente_25,Medellín,2025-01-25,Standard,,,,
+1099,23,2025-08-16,236.77,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_23,Bogotá,2025-01-23,Premium,,,,
+1100,31,2025-08-18,423.38,Pendiente,230,Lapicero Digital,Oficina,1138.57,85,Cliente_31,Cali,2025-01-31,Standard,,,,
+1101,30,2025-08-20,109.27,Envío,218,Hub HDMI,Audio,2397.17,108,Cliente_30,Bogotá,2025-01-30,Premium,,,,
+1102,35,2025-08-22,214.51,Entregado,225,Impresora Láser,Accesorios,976.79,176,Cliente_35,Cartagena,2025-02-04,Gold,,,,
+1103,7,2025-08-24,354.26,Pendiente,201,Laptop UltraBook,Accesorios,2444.97,190,Cliente_7,Bogotá,2025-01-07,Premium,,,,
+1104,16,2025-08-26,82.1,Cancelado,215,Parlante Portátil,Accesorios,966.66,9,Cliente_16,Bogotá,2025-01-16,Standard,,,,
+1105,26,2025-08-28,79.38,Cancelado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_26,Cali,2025-01-26,Standard,,,,
+1106,2,2025-08-30,485.23,Entregado,228,Hub Thunderbolt,Audio,907.26,25,Cliente_2,Cartagena,2025-01-02,Standard,,,,
+1107,1,2025-09-01,361.58,Envío,211,Silla Ergonómica,Accesorios,549.85,196,Cliente_1,Medellín,2025-01-01,Standard,,,,
+1108,12,2025-09-03,34.92,Entregado,212,Escritorio Eléctrico,Oficina,743.29,46,Cliente_12,Cartagena,2025-01-12,Gold,,,,
+1109,5,2025-09-05,208.43,Envío,212,Escritorio Eléctrico,Oficina,743.29,46,Cliente_5,Bogotá,2025-01-05,Standard,,,,
+1110,37,2025-09-07,225.26,Cancelado,204,"Monitor 27""",Oficina,118.07,156,Cliente_37,Bogotá,2025-02-06,Standard,,,,
+1111,32,2025-09-09,375.86,Envío,216,"Tablet 10""",Accesorios,1845.38,55,Cliente_32,Bogotá,2025-02-01,Standard,,,,
+1112,9,2025-09-11,136.67,Envío,204,"Monitor 27""",Oficina,118.07,156,Cliente_9,Cali,2025-01-09,Premium,,,,
+1113,35,2025-09-13,104.4,Pendiente,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_35,Cartagena,2025-02-04,Gold,,,,
+1114,19,2025-09-15,54.22,Envío,224,Router WiFi 6,Accesorios,1620.65,145,Cliente_19,Medellín,2025-01-19,Premium,,,,
+1115,16,2025-09-17,222.73,Entregado,205,Audífonos Bluetooth,Accesorios,2312.36,140,Cliente_16,Bogotá,2025-01-16,Standard,,,,
+1116,3,2025-09-19,348.92,Entregado,208,Disco SSD 1TB,Accesorios,1741.57,133,Cliente_3,Cali,2025-01-03,Standard,,,,
+1117,20,2025-09-21,43.22,Entregado,210,Cargador Rápido,Accesorios,423.88,114,Cliente_20,Bogotá,2025-01-20,Standard,,,,
+1118,24,2025-09-23,458.88,Pendiente,217,Funda Laptop,Accesorios,2288.98,29,Cliente_24,Medellín,2025-01-24,Standard,,,,
+1119,33,2025-09-25,229.54,Entregado,228,Hub Thunderbolt,Audio,907.26,25,Cliente_33,Bogotá,2025-02-02,Gold,,,,
+1120,24,2025-09-27,131.3,Entregado,226,Escáner Documentos,Accesorios,581.19,10,Cliente_24,Medellín,2025-01-24,Standard,,,,
